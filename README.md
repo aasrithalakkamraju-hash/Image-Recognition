@@ -48,5 +48,4 @@ python image1.py
 - Displays the recognized person's name.
 - Shows "Unknown" for faces not in the dataset.
 
-## Author
-Asritha
+
